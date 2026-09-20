@@ -164,4 +164,7 @@ Provides safety-oriented guidance based on the activity data.
 
 ## 📨 Event-Driven Communication
 
+Apache Kafka is used for asynchronous communication between the
+Activity Service and AI Service.
+
 ![System Architecture](docs/architecture-1.png)
